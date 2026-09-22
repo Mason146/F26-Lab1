@@ -27,7 +27,7 @@ print(words[16])
 
 #TO-DO 3:
 # Use negative indexing to return the words "jumps" and "quick" from "words" to the user.
-print(words[-23:-19])
+print(words[-23:-18])
 print(words[-39:-34])
 
 #TO-DO 4:
